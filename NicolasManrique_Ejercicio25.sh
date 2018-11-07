@@ -12,3 +12,4 @@ git clone https://github.com/nicomn97/NicolasManrique_Ejercicio25.git
 cd NicolasManrique_Ejercicio25/
 module load anaconda/python3
 module load gcc/4.9.4
+make -f sample.mk
